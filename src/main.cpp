@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// This code works on Arch Linux, 2023-09-03. Will be tested on windows witrh mingw64 tomorrow.
+// This code works on Arch Linux, 2023-09-03. Will be tested on windows with mingw64 tomorrow.
 
 // Docs: https://everything.curl.dev/libcurl/examples/get
 

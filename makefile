@@ -1,5 +1,5 @@
 all: compile
-	./a.out
+	./a.exe
 
 compile:
-	g++ $(wildcard src/*.cpp) -o a.out -lcurl
+	g++ $(wildcard src/*.cpp) -lcurl
